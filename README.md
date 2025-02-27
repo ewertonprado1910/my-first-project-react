@@ -11,8 +11,4 @@
 - <b>JAVA SCRIPT</b>
 <br>
 - <b>REACT</b>
-<br>
-<h2>Imagem do projeto</h2>
-<br>
-<br>
-<img src="">
+
